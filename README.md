@@ -30,29 +30,28 @@ Finally, you can publish your case study on a professional blogging website, suc
 
 ### Application Overview
 
-[The What]
+- [The What]
 
 ### How did the idea come about? 
     
-[The Why]
+- [The Why]
     
 ### Application Design Overview
 
-[The How]
-
-- Technology stack overview and why they chose the technologies they chose?
-- Backend/Database, possible schema diagrams
-- UI, possible screenshots of the product
-- Will likely be the biggest section of the technical case study 
+- [The How]
+- [Technology stack overview and why they chose the technologies they chose?]
+- [Backend/Database, possible schema diagrams]
+- [UI, possible screenshots of the product]
+- [Will likely be the biggest section of the technical case study]
         
 ### Challenges 
-- Need to also discuss *Implemented Solutions*. We want to talk about technical challenges that we *overcame* and found a thoughtful and good solution to. 
-- Do not mention challenges the involved taking the easy way out
-- Individual Ownership: Your technical case study should have *at least* one technical challenge per member of your group, possibly more. 
+- [Need to also discuss *Implemented Solutions*. We want to talk about technical challenges that we *overcame* and found a thoughtful and good solution to.]
+- [Do not mention challenges the involved taking the easy way out]
+- [Individual Ownership: Your technical case study should have *at least* one technical challenge per member of your group, possibly more.]
         
 ### Extension Opportunities
 
-- This section is the "If I had more time..." section.
+- [This section is the "If I had more time..." section.]
 
 ### Closing 
 
