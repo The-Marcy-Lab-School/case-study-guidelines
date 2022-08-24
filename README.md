@@ -26,14 +26,14 @@ Finally, you can publish your case study on a professional blogging website, suc
 
 ## Potential Sections
 
-**_So what information should you include in your technical case study?_** Every capstone project is unique. The sections in your case study writing may be different from another group's depending on the features or technologies you want to highlight. However, you should use the following format as guidelines. Below are some possible guiding questinos that will help you write your technical case study. 
+**_So what information should you include in your technical case study?_** Every capstone project is unique. The sections in your case study writing may be different from another group's depending on the features or technologies you want to highlight. However, you should use the following format as guidelines. Below are some possible guiding questions that will help you write your technical case study. 
 
 ### Application Overview
 
 - What is your project?
 - What problem does it solve?
 - Why did you choose to build this project?
-- What inspried you to build this project?
+- What inspired you to build this project?
 
 ### Application Design Overview
 
@@ -41,23 +41,23 @@ Finally, you can publish your case study on a professional blogging website, suc
 - What new technologies did you learn for this project?
 - Why did you choose to use that technology?
 - What is the architectural design of your application?
-- What technologies did you use in your backend?
+- What technologies did you use in your back-end?
 - What type of database did you choose and why?
 - What is your database schema (ERD)?
-- What technologies did you use in your frontend?
+- What technologies did you use in your front-end?
 - What is the user flow of your application?
-- Did you use any third party technologies that does not live in either your frontend or backend? 
+- Did you use any third-party technologies that do not live in either your front-end or back-end? 
 
 ### Challenges and Implemented Solutions
 - What _technical_ challenges did you encounter and what thoughtful solutions did you implement?
-    - **Note:** You need to focus on high-quality *Implemented Solutions*. We want to talk about technical challenges that we *overcame* and found a thoughtful and good solution to. 
-    - Do not mention challenges the involved taking the easy way out
-    - Individual Ownership: Your technical case study should have *at least* one technical challenge per member of your group, possibly more. 
+    - **Note:** You should focus on writing about your **Implemented Solutions**. When we discuss technical challenges, we only want to talk about the challenge that we *overcame* and found a thoughtful and good solution to.
+    - It is not worth mentioning challenges that involved a simple solution (i.e. reading the documentation) or a solution that is part of the project-building process (i.e. learning a new technology was challenging). 
+    - Your technical case study should have *at least* one technical challenge and solution per member of your group, possibly more. 
         
 ### Extension Opportunities
 
 - What additional features would you build out?
-- What existing features would your improve upon?
+- What existing features would you improve upon?
 
 ### References and Links
 
