@@ -56,7 +56,7 @@ Finally, you can publish your case study on a professional blogging website, suc
         
 ### Extension Opportunities
 
-- What additional features would you build out?
+- If you had mroe time, what additional features would you build out?
 - What existing features would you improve upon?
 
 ### References and Links
