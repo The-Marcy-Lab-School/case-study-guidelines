@@ -43,7 +43,7 @@ Finally, you can publish your case study on a professional blogging website, suc
 - What is the architectural design of your application?
 - What technologies did you use in your back-end?
 - What type of database did you choose and why?
-- What is your database schema (ERD)?
+- What is your database design/schema?
 - What technologies did you use in your front-end?
 - What is the user flow of your application?
 - Did you use any third-party technologies that do not live in either your front-end or back-end? 
