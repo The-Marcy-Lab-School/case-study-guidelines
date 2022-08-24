@@ -26,36 +26,38 @@ Finally, you can publish your case study on a professional blogging website, suc
 
 ## Potential Sections
 
-**_So what information should you include in your technical case study?_** Every capstone project is unique. The sections in your case study writing may be different from another group's depending on the features or technologies you want to highlight. However, you should use the following format as guidelines. 
+**_So what information should you include in your technical case study?_** Every capstone project is unique. The sections in your case study writing may be different from another group's depending on the features or technologies you want to highlight. However, you should use the following format as guidelines. Below are some possible guiding questinos that will help you write your technical case study. 
 
 ### Application Overview
 
-- [The What]
+- What is your project?
+- What problem does it solve?
+- Why did you choose to build this project?
+- What inspried you to build this project?
 
-### How did the idea come about? 
-    
-- [The Why]
-    
 ### Application Design Overview
 
-- [The How]
-- [Technology stack overview and why they chose the technologies they chose?]
-- [Backend/Database, possible schema diagrams]
-- [UI, possible screenshots of the product]
-- [Will likely be the biggest section of the technical case study]
-        
-### Challenges 
-- [Need to also discuss *Implemented Solutions*. We want to talk about technical challenges that we *overcame* and found a thoughtful and good solution to.]
-- [Do not mention challenges the involved taking the easy way out]
-- [Individual Ownership: Your technical case study should have *at least* one technical challenge per member of your group, possibly more.]
+- What is your technology stack?
+- What new technologies did you learn for this project?
+- Why did you choose to use that technology?
+- What is the architectural design of your application?
+- What technologies did you use in your backend?
+- What type of database did you choose and why?
+- What is your database schema (ERD)?
+- What technologies did you use in your frontend?
+- What is the user flow of your application?
+- Did you use any third party technologies that does not live in either your frontend or backend? 
+
+### Challenges and Implemented Solutions
+- What _technical_ challenges did you encounter and what thoughtful solutions did you implement?
+    - **Note:** You need to focus on high-quality *Implemented Solutions*. We want to talk about technical challenges that we *overcame* and found a thoughtful and good solution to. 
+    - Do not mention challenges the involved taking the easy way out
+    - Individual Ownership: Your technical case study should have *at least* one technical challenge per member of your group, possibly more. 
         
 ### Extension Opportunities
 
-- [This section is the "If I had more time..." section.]
-
-### Closing 
-
-Discussing extension opportunities is a fine way to conclude your technical case study. However, you might choose to write a separate closing section or paragraph. 
+- What additional features would you build out?
+- What existing features would your improve upon?
 
 ### References and Links
 
@@ -64,5 +66,6 @@ Discussing extension opportunities is a fine way to conclude your technical case
 - Link(s) your public Github repositories
 - Link to your deploy application
 - Link(s) to your Linkedin profiles or other professional social media
+- Optionally, link any learning resources you used to build your capstone project (blogs, articles, etc.)
 
 **Additionally, you should link your published technical case study in the READMEs of your Github repositories.**
