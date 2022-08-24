@@ -46,7 +46,7 @@ Finally, you can publish your case study on a professional blogging website, suc
 - What is your database design/schema?
 - What technologies did you use in your front-end?
 - What is the user flow of your application?
-- Did you use any third-party technologies that do not live in either your front-end or back-end? 
+- Did you use any third-party technologies that do not live in either your front-end or back-end? If so, what purpose does it serve?
 
 ### Challenges and Implemented Solutions
 - What _technical_ challenges did you encounter and what thoughtful solutions did you implement?
